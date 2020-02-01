@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="colecoes.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.Deque"/>
+    <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
+    <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.ConstantPool.Entry"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.java.ArrayLengthNode"/>
+    <fullyQualifiedTypeName name="arrays.Foreach"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="oo.encapsulamento.casaA.Ana"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="oo.abstrato.Animal"/>
+</qualifiedTypeNameHistroy>
