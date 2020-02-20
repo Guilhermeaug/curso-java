@@ -1,8 +1,0 @@
-package lambdas;
-
-public class CalculoTeste {
-	public static void main(String[] args) {
-		Calculo soma = new Somar();
-		Calculo multiplicacao = new Multiplicar();
-	}
-}
